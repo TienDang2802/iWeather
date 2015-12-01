@@ -13,6 +13,22 @@
 		C7C223441C0DE95C003A4355 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7C223421C0DE95C003A4355 /* Main.storyboard */; };
 		C7C223461C0DE95C003A4355 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7C223451C0DE95C003A4355 /* Assets.xcassets */; };
 		C7C223491C0DE95C003A4355 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7C223471C0DE95C003A4355 /* LaunchScreen.storyboard */; };
+		C7C223531C0DEA6C003A4355 /* ico_weather.png in Resources */ = {isa = PBXBuildFile; fileRef = C7C223521C0DEA6C003A4355 /* ico_weather.png */; };
+		C7C2235D1C0DF4A1003A4355 /* ico_location_32.png in Resources */ = {isa = PBXBuildFile; fileRef = C7C223541C0DF4A1003A4355 /* ico_location_32.png */; };
+		C7C2235E1C0DF4A1003A4355 /* ico_location_64.png in Resources */ = {isa = PBXBuildFile; fileRef = C7C223551C0DF4A1003A4355 /* ico_location_64.png */; };
+		C7C2235F1C0DF4A1003A4355 /* ico_location.png in Resources */ = {isa = PBXBuildFile; fileRef = C7C223561C0DF4A1003A4355 /* ico_location.png */; };
+		C7C223601C0DF4A1003A4355 /* ico_refesh_128.png in Resources */ = {isa = PBXBuildFile; fileRef = C7C223571C0DF4A1003A4355 /* ico_refesh_128.png */; };
+		C7C223611C0DF4A1003A4355 /* ico_refesh_256.png in Resources */ = {isa = PBXBuildFile; fileRef = C7C223581C0DF4A1003A4355 /* ico_refesh_256.png */; };
+		C7C223621C0DF4A1003A4355 /* ico_sunny_128.png in Resources */ = {isa = PBXBuildFile; fileRef = C7C223591C0DF4A1003A4355 /* ico_sunny_128.png */; };
+		C7C223631C0DF4A1003A4355 /* ico_sunny_256.png in Resources */ = {isa = PBXBuildFile; fileRef = C7C2235A1C0DF4A1003A4355 /* ico_sunny_256.png */; };
+		C7C223641C0DF4A1003A4355 /* ico_thunder_128.png in Resources */ = {isa = PBXBuildFile; fileRef = C7C2235B1C0DF4A1003A4355 /* ico_thunder_128.png */; };
+		C7C223651C0DF4A1003A4355 /* ico_thunder_256.png in Resources */ = {isa = PBXBuildFile; fileRef = C7C2235C1C0DF4A1003A4355 /* ico_thunder_256.png */; };
+		C7C2236C1C0DF4AC003A4355 /* ico_wind_128.png in Resources */ = {isa = PBXBuildFile; fileRef = C7C223661C0DF4AC003A4355 /* ico_wind_128.png */; };
+		C7C2236D1C0DF4AC003A4355 /* ico_wind_256.png in Resources */ = {isa = PBXBuildFile; fileRef = C7C223671C0DF4AC003A4355 /* ico_wind_256.png */; };
+		C7C2236E1C0DF4AC003A4355 /* icon_rain_32.png in Resources */ = {isa = PBXBuildFile; fileRef = C7C223681C0DF4AC003A4355 /* icon_rain_32.png */; };
+		C7C2236F1C0DF4AC003A4355 /* ico_rain_64.png in Resources */ = {isa = PBXBuildFile; fileRef = C7C223691C0DF4AC003A4355 /* ico_rain_64.png */; };
+		C7C223701C0DF4AC003A4355 /* ico_rain_128.png in Resources */ = {isa = PBXBuildFile; fileRef = C7C2236A1C0DF4AC003A4355 /* ico_rain_128.png */; };
+		C7C223711C0DF4AC003A4355 /* ico_rain_256.png in Resources */ = {isa = PBXBuildFile; fileRef = C7C2236B1C0DF4AC003A4355 /* ico_rain_256.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +42,22 @@
 		C7C223451C0DE95C003A4355 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C7C223481C0DE95C003A4355 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C7C2234A1C0DE95C003A4355 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7C223521C0DEA6C003A4355 /* ico_weather.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico_weather.png; sourceTree = "<group>"; };
+		C7C223541C0DF4A1003A4355 /* ico_location_32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico_location_32.png; sourceTree = "<group>"; };
+		C7C223551C0DF4A1003A4355 /* ico_location_64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico_location_64.png; sourceTree = "<group>"; };
+		C7C223561C0DF4A1003A4355 /* ico_location.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico_location.png; sourceTree = "<group>"; };
+		C7C223571C0DF4A1003A4355 /* ico_refesh_128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico_refesh_128.png; sourceTree = "<group>"; };
+		C7C223581C0DF4A1003A4355 /* ico_refesh_256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico_refesh_256.png; sourceTree = "<group>"; };
+		C7C223591C0DF4A1003A4355 /* ico_sunny_128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico_sunny_128.png; sourceTree = "<group>"; };
+		C7C2235A1C0DF4A1003A4355 /* ico_sunny_256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico_sunny_256.png; sourceTree = "<group>"; };
+		C7C2235B1C0DF4A1003A4355 /* ico_thunder_128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico_thunder_128.png; sourceTree = "<group>"; };
+		C7C2235C1C0DF4A1003A4355 /* ico_thunder_256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico_thunder_256.png; sourceTree = "<group>"; };
+		C7C223661C0DF4AC003A4355 /* ico_wind_128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico_wind_128.png; sourceTree = "<group>"; };
+		C7C223671C0DF4AC003A4355 /* ico_wind_256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico_wind_256.png; sourceTree = "<group>"; };
+		C7C223681C0DF4AC003A4355 /* icon_rain_32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_rain_32.png; sourceTree = "<group>"; };
+		C7C223691C0DF4AC003A4355 /* ico_rain_64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico_rain_64.png; sourceTree = "<group>"; };
+		C7C2236A1C0DF4AC003A4355 /* ico_rain_128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico_rain_128.png; sourceTree = "<group>"; };
+		C7C2236B1C0DF4AC003A4355 /* ico_rain_256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico_rain_256.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +90,7 @@
 		C7C223381C0DE95C003A4355 /* iWeather */ = {
 			isa = PBXGroup;
 			children = (
+				C7C223501C0DEA4D003A4355 /* assets */,
 				C7C2233C1C0DE95C003A4355 /* AppDelegate.h */,
 				C7C2233D1C0DE95C003A4355 /* AppDelegate.m */,
 				C7C2233F1C0DE95C003A4355 /* ViewController.h */,
@@ -77,6 +110,37 @@
 				C7C2233A1C0DE95C003A4355 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		C7C223501C0DEA4D003A4355 /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				C7C223511C0DEA59003A4355 /* images */,
+			);
+			name = assets;
+			sourceTree = "<group>";
+		};
+		C7C223511C0DEA59003A4355 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				C7C223661C0DF4AC003A4355 /* ico_wind_128.png */,
+				C7C223671C0DF4AC003A4355 /* ico_wind_256.png */,
+				C7C223681C0DF4AC003A4355 /* icon_rain_32.png */,
+				C7C223691C0DF4AC003A4355 /* ico_rain_64.png */,
+				C7C2236A1C0DF4AC003A4355 /* ico_rain_128.png */,
+				C7C2236B1C0DF4AC003A4355 /* ico_rain_256.png */,
+				C7C223541C0DF4A1003A4355 /* ico_location_32.png */,
+				C7C223551C0DF4A1003A4355 /* ico_location_64.png */,
+				C7C223561C0DF4A1003A4355 /* ico_location.png */,
+				C7C223571C0DF4A1003A4355 /* ico_refesh_128.png */,
+				C7C223581C0DF4A1003A4355 /* ico_refesh_256.png */,
+				C7C223591C0DF4A1003A4355 /* ico_sunny_128.png */,
+				C7C2235A1C0DF4A1003A4355 /* ico_sunny_256.png */,
+				C7C2235B1C0DF4A1003A4355 /* ico_thunder_128.png */,
+				C7C2235C1C0DF4A1003A4355 /* ico_thunder_256.png */,
+				C7C223521C0DEA6C003A4355 /* ico_weather.png */,
+			);
+			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +201,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7C223531C0DEA6C003A4355 /* ico_weather.png in Resources */,
+				C7C223621C0DF4A1003A4355 /* ico_sunny_128.png in Resources */,
+				C7C2236F1C0DF4AC003A4355 /* ico_rain_64.png in Resources */,
+				C7C2236D1C0DF4AC003A4355 /* ico_wind_256.png in Resources */,
+				C7C223701C0DF4AC003A4355 /* ico_rain_128.png in Resources */,
+				C7C223631C0DF4A1003A4355 /* ico_sunny_256.png in Resources */,
 				C7C223491C0DE95C003A4355 /* LaunchScreen.storyboard in Resources */,
+				C7C2235F1C0DF4A1003A4355 /* ico_location.png in Resources */,
+				C7C2235E1C0DF4A1003A4355 /* ico_location_64.png in Resources */,
+				C7C2235D1C0DF4A1003A4355 /* ico_location_32.png in Resources */,
+				C7C2236C1C0DF4AC003A4355 /* ico_wind_128.png in Resources */,
+				C7C2236E1C0DF4AC003A4355 /* icon_rain_32.png in Resources */,
 				C7C223461C0DE95C003A4355 /* Assets.xcassets in Resources */,
+				C7C223641C0DF4A1003A4355 /* ico_thunder_128.png in Resources */,
+				C7C223601C0DF4A1003A4355 /* ico_refesh_128.png in Resources */,
+				C7C223651C0DF4A1003A4355 /* ico_thunder_256.png in Resources */,
+				C7C223611C0DF4A1003A4355 /* ico_refesh_256.png in Resources */,
+				C7C223711C0DF4AC003A4355 /* ico_rain_256.png in Resources */,
 				C7C223441C0DE95C003A4355 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
